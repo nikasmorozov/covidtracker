@@ -1,1 +1,1 @@
-COVID-19 tracking app
+COVID-19 statistics
